@@ -1,3 +1,6 @@
+
+![Screenshot 2024-07-08 000933](https://github.com/khangdev1998/demo-api-the100/assets/79825633/bbe0b055-0b48-44d7-8775-b78f21d5206f)
+
 ```
 {
   "discountProducts": {
